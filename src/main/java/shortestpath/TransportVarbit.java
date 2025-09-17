@@ -7,7 +7,9 @@ import lombok.Getter;
 public class TransportVarbit {
     @Getter
     private final int id;
+    @Getter
     private final int value;
+    @Getter
     private final TransportVarCheck check;
 
     public TransportVarbit(int id, int value, TransportVarCheck check) {

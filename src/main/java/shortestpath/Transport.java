@@ -121,7 +121,7 @@ public class Transport {
         this.varPlayers.addAll(destination.varPlayers);
     }
 
-    Transport(Map<String, String> fieldMap, TransportType transportType) {
+    public Transport(Map<String, String> fieldMap, TransportType transportType) {
         String value;
 
         // If the origin field is null the transport is a teleportation item or spell
