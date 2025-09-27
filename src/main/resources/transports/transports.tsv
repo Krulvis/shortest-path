@@ -4641,26 +4641,46 @@
 2876 2952 0	2880 2952 0	Climb over Broken cart 28931					116>14	2	
 2876 2951 0	2880 2952 0	Climb over Broken cart 28931					116>14	2	
 2877 2950 0	2880 2952 0	Climb over Broken cart 28931					116>14	2	
-2777 3214 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2778 3214 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2776 3213 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2776 3212 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2776 3211 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2779 3213 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2779 3212 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2779 3211 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2777 3210 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2778 3210 0	2834 2951 0	Board Travel cart 2230					116>14	5	
-2830 2953 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
-2830 2952 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
-2831 2954 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
-2832 2954 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
-2833 2954 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
-2831 2951 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
-2832 2951 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
-2833 2951 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
-2834 2953 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
-2834 2952 0	2776 3214 0	Pay-fare Travel cart 2256					116>14	5	
+2777 3214 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2778 3214 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2776 3213 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2776 3212 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2776 3211 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2779 3213 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2779 3212 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2779 3211 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2777 3210 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2778 3210 0	2834 2951 0	Board Travel cart 2230		COINS=200			116>14	5	
+2830 2953 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2830 2952 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2831 2954 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2832 2954 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2833 2954 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2831 2951 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2832 2951 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2833 2951 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2834 2953 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2834 2952 0	2776 3214 0	Board Travel cart 2265		COINS=200			116>14	5	
+2777 3214 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2778 3214 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2776 3213 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2776 3212 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2776 3211 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2779 3213 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2779 3212 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2779 3211 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2777 3210 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2778 3210 0	2834 2951 0	Board Travel cart 2230					4566=1	5	
+2830 2953 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
+2830 2952 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
+2831 2954 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
+2832 2954 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
+2833 2954 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
+2831 2951 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
+2832 2951 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
+2833 2951 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
+2834 2953 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
+2834 2952 0	2776 3214 0	Board Travel cart 2265					4566=1	5	
 2836 9599 0	2836 9600 0	Open Wall 2606				3741=1		2	
 2836 9600 0	2836 9599 0	Open Wall 2606						2	
 2832 9657 0	2834 3258 0	Climb Climbing rope 25213						1	
@@ -4742,8 +4762,8 @@
 2734 9478 0	2760 3061 0	Use Crevice 30201				5629>0		2	
 									
 # Brimhaven Dungeon Vines									
-2691 9512 0	2689 9512 0	Chop-down Vines 29731		AXE=1				2	
-2689 9512 0	2691 9512 0	Chop-down Vines 29731		AXE=1				2	
+2691 9564 0	2689 9564 0	Chop-down Vines 29731		AXE=1				2	
+2689 9564 0	2691 9564 0	Chop-down Vines 29731		AXE=1				2	
 									
 # Shilo Village									
 2835 2987 0	2835 2987 1	Climb-up Ladder 16684						2	
@@ -4991,3 +5011,40 @@
 2936 2938 0	2936 2940 0	Chop-down Jungle Bush 2893		MACHETE=1			139>49	2	
 2936 2938 0	2936 2936 0	Chop-down Jungle tree 2889		AXE=1			139>49	10	
 2936 2936 0	2936 2938 0	Chop-down Jungle tree 2889		AXE=1			139>49	10	
+									
+# Almera's House in Baxtorian Falls									
+2521 3494 0	2521 3494 1	Climb-up Ladder 16683						2	
+2522 3493 0	2522 3493 1	Climb-up Ladder 16683						2	
+2521 3494 1	2521 3494 0	Climb-down Ladder 16679						2	
+2522 3493 1	2522 3493 0	Climb-down Ladder 16679						2	
+									
+# Hunter Guild									
+1559 3046 0	1556 3046 2	Climb-up Rope 51647						2	
+1556 3046 2	1559 3046 0	Climb-down Rope 51644						2	
+1558 3047 0	1558 9451 0	Climb-down Stairs 51641						2	
+1557 3047 0	1557 9451 0	Climb-down Stairs 51641						2	
+1558 9451 0	1558 3047 0	Climb-up Stairs 51642						2	
+1557 9451 0	1557 3047 0	Climb-up Stairs 51642						2	
+1553 3033 0	1553 3033 1	Climb-up Ladder 52614						2	
+1553 3033 1	1553 3033 0	Climb-down Ladder 52620						2	
+1556 3034 1	1556 3034 2	Climb-up Ladder 52614						2	
+1556 3034 2	1556 3034 1	Climb-down Ladder 52620						2	
+1533 3051 0	1533 9446 0	Enter Cave 51761						2	
+1533 3050 0	1533 9446 0	Enter Cave 51761						2	
+1533 9447 0	1533 3051 0	Exit Cave 51760						2	
+1533 9446 0	1533 3051 0	Exit Cave 51760						2	
+1533 9445 0	1533 3051 0	Exit Cave 51760						2	
+									
+# Crabclaw Caves									
+1646 9848 0	1643 3450 0	Climb Sand pile 31691				6027>6		2	
+1647 9848 0	1643 3450 0	Climb Sand pile 31691				6027>6		2	
+1646 3449 0	1646 9848 0	Enter Cave 31690				6027>6		2	
+1646 3450 0	1646 9848 0	Enter Cave 31690				6027>6		2	
+1645 3451 0	1646 9848 0	Enter Cave 31690				6027>6		2	
+1644 3451 0	1646 9848 0	Enter Cave 31690				6027>6		2	
+1643 3450 0	1646 9848 0	Enter Cave 31690				6027>6		2	
+1643 3449 0	1646 9848 0	Enter Cave 31690				6027>6		2	
+1644 3448 0	1646 9848 0	Enter Cave 31690				6027>6		2	
+1645 3448 0	1646 9848 0	Enter Cave 31690				6027>6		2	
+1673 9800 0	1677 9747 0	Climb-down Tunnel entrance 31692						2	
+1677 9747 0	1673 9800 0	Climb-down Tunnel entrance 31692						2	

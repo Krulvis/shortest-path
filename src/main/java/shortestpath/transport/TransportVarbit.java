@@ -1,16 +1,18 @@
-package shortestpath;
+package shortestpath.transport;
 
 import java.util.Map;
 
 import lombok.Getter;
 
-public class TransportVarPlayer {
+public class TransportVarbit {
     @Getter
     private final int id;
+    @Getter
     private final int value;
+    @Getter
     private final TransportVarCheck check;
 
-    public TransportVarPlayer(int id, int value, TransportVarCheck check) {
+    public TransportVarbit(int id, int value, TransportVarCheck check) {
         this.id = id;
         this.value = value;
         this.check = check;

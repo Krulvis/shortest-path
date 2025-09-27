@@ -24,7 +24,7 @@ dependencies {
 }
 
 group = 'shortestpath'
-version = '1.17.15'
+version = '1.17.16'
 sourceCompatibility = '1.11'
 
 tasks.withType(JavaCompile) {
@@ -52,9 +52,9 @@ tasks.named('jacocoTestReport') {
 // Convenience task to start the RuneLite client with the ShortestPathPlugin
 tasks.register('runelite', JavaExec) {
     group = 'application'
-    description = 'Runs pathfinder.ShortestPathPluginTest with assertions enabled'
+    description = 'Runs shortestpath.ShortestPathPluginTest with assertions enabled'
     classpath = sourceSets.test.runtimeClasspath
-    mainClass.set('pathfinder.ShortestPathPluginTest')
+    mainClass.set('shortestpath.ShortestPathPluginTest')
     jvmArgs '-ea'
     args '--developer-mode'
 }
